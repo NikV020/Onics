@@ -1,0 +1,38 @@
+.home {
+    position: relative;
+    height: 776px;
+}
+
+.home-content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-bottom: 57px;
+    flex-flow: column;
+    height: 100%;
+}
+
+.home-heading {
+    font-family: 'Noto Serif', serif;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 82px;
+    text-align: center;
+    color: #FFF;
+    width: 994px;
+}
+
+
+.home-text {
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #FFF;
+    margin-top: 22px;
+}
+
+
+.home-mouse {
+    text-align: center;
+    margin-top: 164px;
+}

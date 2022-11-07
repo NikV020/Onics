@@ -1,0 +1,99 @@
+.speak {
+    position: relative;
+    margin-top: 193px;
+    margin-bottom: 0;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(40, 40, 40, 0.05);
+}
+
+.speak-title {
+    padding-top: 33px;
+    padding-bottom: 23px;
+}
+
+.speak-heading {
+    font-family: 'Noto Serif', serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    color: #D9C5B2;
+}
+
+.line-title {
+    padding-top: 5px;
+}
+
+.speak-wrapper-subtitle {
+    display: grid;
+    grid-template-columns: repeat(4, 290px);
+    column-gap: 26px;
+    padding-bottom: 50px;
+}
+
+
+.speak-wrapper {
+    height: 528px;
+    width: 290px;
+}
+
+
+.review {
+    padding: 20px;
+    min-width: 250px;
+    min-height: 488px;
+    background: #FBFBFB;
+}
+
+.review-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.review-title {
+    padding-top: 10px;
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
+    line-height: 25px;
+    color: #1A1A1A;
+}
+
+.review-subtitle {
+    padding-top: 14px;
+    font-family: 'Noto Serif', serif;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: right;
+    color: #777777;
+}
+
+.review-text {
+    padding-top: 10px;
+    font-size: 16px;
+    line-height: 25px;
+    color: #393939;
+}
+
+.review-read {
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #777777;
+}
+
+.review-read a {
+    transition: color 0.3s ease;
+}
+
+.review-read a:hover {
+    color: #D9C5B2;
+}
+
+
+.call-phone {
+    position: absolute;
+    width: 82px;
+    height: 82px;
+    top: 488px;
+    left: 70px;
+}
+
